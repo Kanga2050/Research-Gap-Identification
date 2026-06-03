@@ -35,5 +35,4 @@ If you need to regenerate them, rerun the scraper or the notebook cells that cre
 
 ## Notes
 
-- The repository is intended to keep source code and analysis notebooks under version control, not large generated datasets.
-- API keys or personal details should not be committed to the repository.
+Most up to date findings are in the results folder of Graphs, run on the prompt "Space Biology", so you don't have to run the full code to generate visualizations.
