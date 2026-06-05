@@ -1,3 +1,4 @@
 *.csv
 .venv/
 .ipynb_checkpoints/
+Topics Keywords with frequencies.txt
